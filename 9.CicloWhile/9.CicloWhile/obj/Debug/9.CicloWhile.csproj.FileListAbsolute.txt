@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe.config
+C:\Users\B09S104est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.exe
+C:\Users\B09S104est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\9.CicloWhile\9.CicloWhile\bin\Debug\9.CicloWhile.pdb
+C:\Users\B09S104est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.exe
+C:\Users\B09S104est\Documents\Valeria Londoño Velasquez\FundamentosProgramacionMJ12ValeriaLondo-o\9.CicloWhile\9.CicloWhile\obj\Debug\9.CicloWhile.pdb
