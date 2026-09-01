@@ -51,7 +51,7 @@ namespace _9.CicloWhile
                 }
                 contador++;
             }
-            Console.WriteLine($"La cantidad de numeros pares del 1 al {n} es; {contadorPares}");
+            Console.WriteLine($"La cantidad de numeros pares del 1 al {n} es: {contadorPares}");
         }
     }
 }
