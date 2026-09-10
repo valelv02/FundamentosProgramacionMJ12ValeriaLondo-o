@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 2 Ciclos\bin\Debug\Parcial 2 Ciclos.exe.config
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 2 Ciclos\bin\Debug\Parcial 2 Ciclos.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 2 Ciclos\bin\Debug\Parcial 2 Ciclos.pdb
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 2 Ciclos\obj\Debug\Parcial 2 Ciclos.pdb
