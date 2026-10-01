@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 1 Condicionales\bin\Debug\Parcial 1 Condicionales.exe.config
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 1 Condicionales\bin\Debug\Parcial 1 Condicionales.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 1 Condicionales\bin\Debug\Parcial 1 Condicionales.pdb
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 1 Condicionales\obj\Debug\Parcial 1 Condicionales.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 1 Condicionales\obj\Debug\Parcial 1 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 1 Condicionales\obj\Debug\Parcial 1 Condicionales.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\Parcial 1 Condicionales\obj\Debug\Parcial 1 Condicionales.pdb
