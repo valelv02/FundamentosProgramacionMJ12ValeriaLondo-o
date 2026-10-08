@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\19.ProgramaciónModular\bin\Debug\19.ProgramaciónModular.exe.config
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\19.ProgramaciónModular\bin\Debug\19.ProgramaciónModular.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\19.ProgramaciónModular\bin\Debug\19.ProgramaciónModular.pdb
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.exe
+C:\Users\USUARIO\Desktop\Valeria Londoño Fundamentos de Programación\19.ProgramaciónModular\obj\Debug\19.ProgramaciónModular.pdb
